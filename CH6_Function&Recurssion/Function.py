@@ -1,4 +1,5 @@
-# Function
+# Function is a block of code which only runs when it is called. You can pass data,
+# known as parameters, into a function. A function can return data as a result.
 
 
 def sum(a, b):
@@ -21,6 +22,6 @@ print("Average of 3 numbers :", average_num(32, 31, 30))
 print("Percentage of a Number :", percentage(455, 5))
 
 
-## Experiement of print method where sep and end variable check
+## Example of print function with sep and end predefined parameters
 print("Hello", "World!", sep="-", end=" ")
 print("Sandeep")
