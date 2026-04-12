@@ -15,4 +15,4 @@
 
 
 # listData = [4,2,5,6,8,4,2]
-listFunc(listData)
+# listFunc(listData)
