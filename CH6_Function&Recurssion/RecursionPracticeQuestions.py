@@ -10,9 +10,13 @@
 # print("Sum is 'n th' number is", sum)
 
 
-# Write a recursive function to print all elements in a list. (Hints: Use list & index as parameters.)
-# def lisFunc(listData):
+# # Write a recursive function to print all elements in a list. (Hints: Use list & index as parameters.)
+# def printList(listData, index=0):
+#     if index == len(listData):
+#         return
+#     print(listData[index])
+#     printList(listData, index + 1)
 
 
-# listData = [4,2,5,6,8,4,2]
-# listFunc(listData)
+# fruits = ["Mango", "Litchi", "Apple", "Banana"]
+# printList(fruits)
